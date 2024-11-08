@@ -1,0 +1,1531 @@
+firstname	commonname	playerjerseyname	surname	playerid
+Cody		Gakpo	Gakpo	242516
+João		João Félix	Félix	242444
+Benoît		B.Badiashile	Badiashile	242578
+Jack		Butland	Butland	203042
+Noni		Madueke	Madueke	254796
+Lamine	Lamine Yamal	Lamine Yamal	Yamal	269150
+Endrick Felipe	Endrick	Endrick	Moreira de Sousa	6357
+Antonio	Silva	Silva	Silva	256125
+Adrianne	Iron	Iron	Reid	1661
+José Luis	Joselu	Joselu	Sanmartín Mato	173608
+Vinícius José	Vinícius Jr.	Vini Jr.	de Oliveira Júnior	238794
+Rodrygo	Rodrygo	Rodrygo	Silva de Goes	243812
+Fran		Fran García	García	246606
+Jude		Bellingham	Bellingham	252371
+Jesús		Vallejo	Vallejo	225161
+Sékou		Mara	Mara	257612
+Lucas		Chávez	Chávez	264536
+Dujuan		Richards	Richards	264373
+Rico		Lewis	Lewis	264681
+Stefan		Bajčetić	Bajčetić	264561
+André		Onana	Onana	226753
+Shea		Charles	Charles	260677
+Mohamed		Amdouni	Amdouni	2067
+Neymar	Neymar Jr	Neymar Jr	da Silva Santos Jr.	190871
+Kylian		Mbappé	Mbappé	231747
+Bukayo		Saka	Saka	246669
+Axel		Disasi	Disasi	229942
+Christopher		Nkunku	Nkunku	232411
+David		Kalokoh	Kalokoh	1054
+Aymeric		Laporte	Laporte	212218
+Alejo		Veliz	Veliz	264227
+Andrey		Santos	Santos	269154
+Benjamin		Mendy	Mendy	204884
+Cher		Cher Ndour	Ndour	269152
+Mikayil	Mikayil Faye	Mikayil Faye	Faye	269153
+Fermín		Fermín	Lopez	269155
+Matheus		Matheus	Franca	234571
+Carlos		Baleba	Baleba	267632
+Dorde		Petrovic	Petrovic	2274
+Matheus		Matheus N.	Nunes	253124
+Fares		Chaibi	Chaibi	263867
+Enso		González	González	267914
+Murillo	Murillo	Murillo	dos Santos	2089
+Tarek		Buchmann	Buchmann	7197
+Rasmus		Højlund	Højlund	259399
+Daniel		Peretz	Peretz	1184
+Mathys		Tel	Tel	268421
+Francisco		F. Conceição	Conceição	261050
+Alex		McCarthy	McCarthy	189324
+Gavin		Bazunu	Bazunu	243585
+Warren		Zaïre-Emery	Zaïre-Emery	263334
+Jorrel		Hato	Hato	264340
+Evan		Ferguson	Ferguson	259608
+Joao Pedro	Joao Neves	Joao Neves	Goncalves Neves	1914
+Nicolas Paz	Nico Paz	Paz	Martinez	255468
+Ben		Doak	Doak	84164
+Melkamu		Frauendorf	Frauendorf	1683
+Bryan Zaragosa	Bryan	Bryan	Martinez	245728
+Claudio		Echeverri	Echeverri	264312
+Samuel		Iling-Junior	Iling-Junior	2073
+Arthur		Vermeeren	Vermeeren	235414
+Simone		Pafundi	Pafundi	256061
+Kenan		Yildiz	Yildiz	237693
+Roony	Roony	Roony	Bardghji	6139
+Paris		Brunner	Brunner	268272
+Oscar		Gloukh	Gloukh	318
+Rome-Jayden		Owusu-Oduro	Owusu-Oduro	6736
+Sverre		Nypan	Nypan	268448
+Eli Junior		Kroupi	Kroupi	266057
+Estevão Willian	Estevão	Estevão	de Oliveira Goncalves	1861
+Victor		Boniface	Boniface	247679
+Tiago		Tiago Santos	Santos	268440
+Lenny		Yoro	Yoro	268002
+Marc Guiu		Marc Guiu	Paz	259882
+Jack		Hinshelwood	Hinshelwood	2208
+Gianluca Prestianni	Prestianni	Prestianni	Gross	84162
+William		Osula	Osula	1995
+Oscar		Bobb	Bobb	262015
+Tom		Dele-Bashiru	Dele-Bashiru	233048
+Lewis	Miley	Miley	Miley	216239
+Vasilije		Adžić	Adžić	232254
+Alvaro		Rodríguez	Rodríguez	253856
+Gabriel		Gheorghe	Gheorghe	187986
+Bailey	Rice	Rice	Rice	1070
+Lennon	Miller	Miller	Miller	6262
+George	Ilenikhena	Ilenikhena	Ilenikhena	240834
+Nestory	Irankunda	Irankunda	Irankunda	7449
+Dennis	Seimen	Seimen	Seimen	1863
+Andrei Sebastian	Borza	Borza	Borza	568
+Luka	Vrbancic	Vrbančić	Vrbančić	575
+Adrian	Mazilu	Mazilu	Mazilu	7410
+Lucas	Bergvall	Bergvall	Bergvall	264344
+Yunus Emre	Konak	Konak	Konak	84000
+Yegor		Yarmolyuk	Yarmolyuk	82258
+Facundo		Buonanotte	Buonanotte	170719
+Jarell	Quansah	Quansah	Quansah	84064
+Héctor Fort	Héctor Fort	Fort	García	7403
+Julien	Duranville	Duranville	Duranville	7379
+Wisdom		Amey	Amey	2114
+Can Yilmaz	Uzun	Uzun	Uzun	265770
+Krisztian		Lisztes	Lisztes	7312
+Jayden	Addai	Addai	Addai	6063
+Gabriel	Misehouy	Misehouy	Misehouy	7347
+Tygo	Land	Land	Land	263728
+Jorne	Spileers	Spileers	Spileers	268270
+Malick Martin	Fofana	Fofana	Fofana	2012
+Sávio Moreira	Sávio	Sávio	de Oliveira	6376
+Boubacar		Kamara	Kamara	236987
+Ben		Osborn	Osborn	210985
+Cameron		Archer	Archer	258930
+Vinicius		Vinicius Souza	Souza	262929
+Stephy		Mavididi	Mavididi	225783
+Ousmane		Diomande 	Diomande 	269156
+Álex		Álex	Jiménez	269157
+Mika	Godts	Godts	Godts	269137
+Matteo		Prati	Prati	269159
+Youssef Ramalho	Chermiti	Chermiti	Chermiti	269160
+Eliesse		Eliesse	Ben Seghir	269162
+Brajan		B. Gruda	Gruda	269163
+Yankuba		Yankuba	Minteh	269164
+Damion	Downs	Downs	Downs	269165
+Juan		Herzog	Herzog	269166
+Pau		P. Ferrer 	Ferrer 	269167
+Iñaki		I. González	González	269168
+Allen		A. Obando	Obando	269169
+Dean		D. Huijsen	Huijsen	269170
+Abdul Fatawu	Abdul Fatawu	Abdul Fatawu	Issahaku	269171
+Rav		Van den Berg	Van den Berg	269161
+Tibe		De Vlieger	De Vlieger	269172
+Tobías		T. Palacio	Palacio	269173
+Kjell-Arik		Wätjen	Wätjen	269174
+Joshua		J. King	King	269175
+Jacob		J. Wright	Wright	269176
+Rodrigo		Silva Duarte	Silva Duarte	269177
+Kees		Kees	Smit	269178
+Bence		Dárdai	Dárdai	269179
+Obed		O. Vargas	Vargas	269180
+Serge		Ngoma	Ngoma	269181
+Oscar		Schwartau	Schwartau	269182
+Karol		Borys	Borys	269183
+Krzysztof		Kolanko	Kolanko	269184
+Cruz		Medina	Medina	269185
+Daniel		Pérez Guerrero	Pérez Guerrero	269186
+Madi		Monamay	Monamay	269187
+Óscar	Andrés Perea	Andrés Perea Abonce	Andrés Perea Abonce	269188
+Pontus		Dahbo	Dahbo	269189
+Roko		Brajković	Brajković	269190
+Dylan		Dylan	Smith	269191
+Ibrahim		Maza	Maza	269192
+Assane		Diao Diaoune	Diao Diaoune	269193
+Jovan		Živković	Živković	269194
+Mamadou		Diakhon	Diakhon	269195
+Jovan		Milošević	Milošević	269138
+Felipe		Rodríguez Gentile	Rodríguez Gentile	269198
+Assan		Ouedraogo	Ouedraogo	269139
+Luca		Luca	Ross	269200
+Santiago		Santiago	López	269201
+Junior		Zé	Zé	269202
+Kian		K. Best	Best	269203
+Tomé		Sousa	de Castro Sousa	269204
+Samuel		Amo-Ameyaw	Amo-Ameyaw	269205
+Bastien		Meupiyou	Meupiyou	269206
+Ethan		Mbappé	Mbappé	269207
+Noah		Edjouma	Edjouma	269208
+Myles		Lewis-Skelly	Lewis-Skelly	269209
+Jérémy		Jacquet	Jacquet	269210
+Otto		Stange	Stange	269211
+Samuele		Di Benedetto	Di Benedetto	269212
+Ismaïl		Ismaïl Bouneb	Bouneb	269213
+Efe		Akman	Akman	269214
+Ian		Ian Subiabre	Subiabre	269215
+Pau	Cubarsí	Cubarsí	Cubarsí Paredes	278046
+Adam		Aznou	Aznou	70448
+Senny		Mayulu	Mayulu	70004
+Yannick		Eduardo	Eduardo	70038
+Isak		Hansen-Aarøen	Hansen-Aarøen	268436
+Eran		Tuypens	Tuypens	279176
+Augustin		Ruberto	Ruberto	279165
+Luka	Vušković	Vušković	Vušković	7434
+Jayden	Jayden Danns	Danns	Danns	224259
+Wesley	Okoduwa	Okoduwa	Okoduwa	2222
+Um		Won Sang	Won Sang	269216
+Moteb		Moteb	Al Harbi	269217
+Max		Max	Johnston	269218
+Patrick		P. Dorgu	Dorgu	269219
+Hassan		Tambakti	Tambakti	269220
+Seong		Jin Kang	Jin Kang	269221
+Michael	Michael	Michael	Delgado de Oliveira	269222
+Saud		Saud	Abdul Hamid	269223
+Benjamin		Tahirović	Tahirović	269224
+Renato		R. Veiga	Veiga	269226
+Karim		Karim	Konaté	269227
+Lamine		Camara	Camara	269228
+Fawaz		Fawaz	Al Sagourq	269229
+Zakaria		Z. Al Hawsawi	Al Hawsawi	269230
+Faisal		Faisal	Al Ghamdi	269231
+Hassan		Kadesh	Kadesh	269232
+Muhannad		Al Shanqeeti	Al Shanqeeti	269233
+Ahmed		Sharahili	Sharahili	269234
+Saad		Saad	Al Mousa	269235
+Danilo	Danilo	Danilo	dos Santos de Oliveira	1704
+Francisco		Pérez	Pérez Martínez	271373
+Theo		Zidane	Zidane	279256
+Pablo		Barrios	Barrios	272449
+Noel		Lopez	Lopez	264490
+Omari		Forson	Forson	268437
+Aleksandar		Pavlovic	Pavlovic	275298
+Wilson		Odobert	Odobert	270579
+Willy		Kambwala	Kambwala	268414
+Gift		Orban	Orban	273564
+Amara		Nallo	Nallo	279257
+Deivid		Washington	Washington	277795
+Hans		Caviglia	Caviglia	253162
+Carlos	Borges	Borges	Forbs Borges	277426
+Ethan		Nwaneri	Nwaneri	271807
+Yarek		Gasiorowski	Gasiorowski	278661
+Marco		Pellegrino	Pellegrino	274947
+Angel		Alarcon	Alarcon	274357
+Fillippo		Terracciano	Terracciano	271579
+Otávio	Otávio	Otávio	Ataíde da Silva	275070
+Ethan	Wheatley	Wheatley	Wheatley	71973
+Quilindschy		Hartman	Hartman	271121
+Gustavo	Puerta	Puerta	Aldolfo Puerta Molano	273827
+Arthur	Arthur	Arthur	Augusto de Matos Soares	275028
+Mateo		Joseph	Joseph	270206
+Yago	Santiago	Santiago	de Santiago Alonso	269250
+Luke		Harris	Harris	270937
+Mario		Martin	Martin	274555
+Federico		Redondo	Redondo	269622
+Alfie		Gilchrist	Gilchrist	278286
+Mateus		Fernandes	Fernandes	270857
+Nikola		Sekulov	Sekulov	276798
+Benjamin		Cremashi	Cremashi	272687
+Lewis		Koumas	Koumas	70994
+Chris		Rigg	Rigg	279258
+Franco	Mastantuono	Mastantuono	Mastantuono	279259
+Kendry		Páez	Páez	279260
+Alvaro		Montoro	Montoro	279836
+Yoram		Zague	Zague	70766
+Viktor		Tsukanov	Tsukanov	70862
+Adrian		Przyborek	Przyborek	274444
+Finn		Jeltsch	Jeltsch	278780
+Mateo		Retegui	Retegui	241850
+Kiano		Dyer	Dyer	71997
+Francis		Onyeka	Onyeka	70037
+Tyrique		George	George	71998
+Alejo		Sarco	Sarco	71101
+Adrián		Liso Lahoz	Liso Lahoz	277269
+Leo		Ramirez-Espain	Ramirez-Espain	72208
+Alexander		Røssing-Lelesiit	Røssing-Lelesiit	72319
+Filip		Kucharczyk	Kucharczyk	276395
+Enoch Mayele		Mastoras	Mastoras	72205
+Andrew		Buah	Buah	72218
+Jonathan		Asp-Jensen	Asp-Jensen	72246
+Mohamed-Amine		Bouchenna	Bouchenna	70474
+Ewen		Jaouen	Jaouen	72022
+Tyrese		Hall	Hall	72284
+Francisco Diogo	Francisco Silva	Francisco Silva	Pereira da Silva	279703
+Bennit		Bröger	Bröger	72365
+Ilhan		Fakılı	Fakılı	72170
+Abdoul		Koné	Koné	72250
+João Pedro Seno		Luís Rêgo	Luís Rêgo	72267
+Sergio Rodelas		Pintor	Pintor	72293
+Noël Bigo		Atom	Atom	72295
+Ignacio		Tapia	Tapia	273770
+Djomar		Giersthove	Giersthove	72304
+Matthieu Luka		Epolo	Epolo	262265
+Gustavo Miguel Pereira		Sousa Varela	Sousa Varela	72337
+Lautaro		Vargas	Vargas	278430
+Ian		Forns Montes	Forns Montes	279828
+Omar		Sadik	Sadik	278996
+Miguel Pedro	Miguel Pedro	Menino	Menino	72265
+Semih		Kılıçsoy	Kılıçsoy	274616
+Federico		Valverde	Valverde	239053
+César		Miño	Miño	279059
+Octavio		Ontivero	Ontivero	72465
+Luis		Guilherme	Guilherme	72466
+Pedro Henrique	Pedro Lima	Pedro Lima	Cardoso de Lima	72467
+Maarten		Vandevoordt	Vandevoordt	242879
+Samuel	Omorodion	Aghehowa	Omorodion Aghehowa	277581
+Cameron		Jerome	Jerome	165191
+Harry		Kane	Kane	202126
+Michael		Olise	Olise	247827
+Igor Thiago	Igor Thiago	Rodrigues	Nascimento Rodrigues	275771
+Karamoko		Karamoko	Dembélé	246682
+Paul		Wanner	Wanner	7454
+Gabriel	Moscardo	Moscardo	Moscardo de Salles	279916
+Osman		Abrahim	Ibrahim Abrahim	279943
+Amario		Cozier-Duberry	Cozier-Duberry	279970
+Sam		Curtis	Curtis	72001
+Francesco		Camarda	Camarda	72006
+Julian		Rijkhoff	Rijkhoff	72005
+Isaac		Babadi	Babadi	72000
+Valentin		Carboni	Carboni	72004
+Andrea		Natali	Natali	71999
+Bobby		Clarke	Clarke	72003
+Mikey		Moore	Moore	72002
+João		João Gomes	Gomes	2314
+Omari		Kellyman	Kellyman	278017
+Cole		Palmer	Palmer	257534
+Isaac		Romero	Bernal	69967
+Enzo		Barrenechea	Barrenechea	246871
+Tim		Iroegbunam	Iroegbunam	266609
+Erling		Haaland	Haaland	239085
+Renato		Veiga	Veiga	273906
+Eduard		Spertsyan	Spertsyan	1978
+Silvano Cliff		Vos	Robbie Vos	7364
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
+				0
